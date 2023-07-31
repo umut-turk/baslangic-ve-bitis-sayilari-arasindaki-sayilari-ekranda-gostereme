@@ -1,0 +1,8 @@
+C:\Users\UMUT TÜRK\Desktop\cshrap  ornek\baslangic ve bitis\baslangic ve bitis\bin\Debug\baslangic ve bitis.exe.config
+C:\Users\UMUT TÜRK\Desktop\cshrap  ornek\baslangic ve bitis\baslangic ve bitis\bin\Debug\baslangic ve bitis.exe
+C:\Users\UMUT TÜRK\Desktop\cshrap  ornek\baslangic ve bitis\baslangic ve bitis\bin\Debug\baslangic ve bitis.pdb
+C:\Users\UMUT TÜRK\Desktop\cshrap  ornek\baslangic ve bitis\baslangic ve bitis\obj\Debug\baslangic ve bitis.csproj.AssemblyReference.cache
+C:\Users\UMUT TÜRK\Desktop\cshrap  ornek\baslangic ve bitis\baslangic ve bitis\obj\Debug\baslangic ve bitis.csproj.SuggestedBindingRedirects.cache
+C:\Users\UMUT TÜRK\Desktop\cshrap  ornek\baslangic ve bitis\baslangic ve bitis\obj\Debug\baslangic ve bitis.csproj.CoreCompileInputs.cache
+C:\Users\UMUT TÜRK\Desktop\cshrap  ornek\baslangic ve bitis\baslangic ve bitis\obj\Debug\baslangic ve bitis.exe
+C:\Users\UMUT TÜRK\Desktop\cshrap  ornek\baslangic ve bitis\baslangic ve bitis\obj\Debug\baslangic ve bitis.pdb
